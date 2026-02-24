@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>outsera</groupId>
-	<artifactId>golden-raspberry-api</artifactId>
+	<artifactId>goldenraspberry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>golden-raspberry-api</name>
 	<description>Project to meet the Outsera technical test</description>
