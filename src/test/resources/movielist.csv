@@ -1,0 +1,8 @@
+year;title;studios;producers;winner
+1980;Movie 1;Studio X;Producer A;yes
+1981;Movie 2;Studio X;Producer A;yes
+1990;Movie 3;Studio Y;Producer B;yes
+2000;Movie 4;Studio Y;Producer B;yes
+2015;Movie 5;Studio Z;Producer C and Producer D;yes
+2020;Movie 6;Studio Z;Producer C;yes
+2018;Movie 7;Studio Z;Producer C;no
