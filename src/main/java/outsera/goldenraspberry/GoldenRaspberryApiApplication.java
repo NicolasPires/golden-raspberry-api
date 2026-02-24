@@ -1,4 +1,4 @@
-package outsera.golden_raspberry_api;
+package outsera.goldenraspberry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
